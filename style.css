@@ -1,0 +1,136 @@
+ 
+#landing
+{
+    padding: 0% 15%;
+}
+h1
+{
+    font-family: 'Luckiest Guy', cursive;
+    size: 3rem;
+    line-height: 2;
+    padding-bottom: 15%;
+}
+#navs
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.freviews
+{
+  background-color: #dddddd
+}
+.fabout
+{
+  background-color: #f3c623
+}
+
+.fdes
+{
+  background-color: #f3c623
+}
+.bkgr
+{
+  background-color: #f3c623
+}
+h3 {
+  font-size: 3rem !important;
+  font-style: bold !important;
+  font-family: "Bree Serif", serif;
+  
+}
+
+
+.slider .indicators .indicator-item.active {
+  background: #056676 !important;
+}
+
+
+
+.nav-wrapper {
+  background-color:#056676;
+}
+
+.sidenav a {
+  text-decoration: none;
+}
+
+.nav-wrapper > a {
+  text-decoration: none;
+  font-family: "Pacifico", cursive;
+}
+
+.nav-wrapper > a:hover {
+  color: white;
+}
+
+.hvr-grow {
+  text-decoration: none;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+  text-decoration: none;
+  color: white;
+}
+
+.header {
+  padding: 20px;
+  padding-bottom: 30px;
+}
+
+.carousel {
+  height: 350px !important;
+}
+
+.page-footer {
+  background: #00a1ab !important;
+}
+
+.parallax-container {
+  min-height: 380px;
+  height: auto;
+}
+
+.icon-coffee {
+  color: #ffffff;
+}
+
+hr {
+  color: #ffffff;
+  height: 10px;
+
+  border: none;
+  background-color: #dddddd;
+}
+.map-wrapper
+
+{
+  max-width: 700px;
+  border: 5px solid red
+}
+.googlemap
+{
+ width: 100%;
+}
+
+
+@media (max-width: 992px) {
+  .nav-wrapper > a:hover {
+    color: black;
+  }
+
+  .carousel {
+    height: 150px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-wrapper > a {
+    padding-left: 35px;
+  }
+
+  .caption {
+    margin-top: 50px !important;
+  }
+}
+
